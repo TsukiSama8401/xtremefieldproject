@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/xtremefieldproject/static/css/main.073c9b0a.css",
+    "main.js": "/xtremefieldproject/static/js/main.610f141b.js",
+    "static/js/787.144d2ea2.chunk.js": "/xtremefieldproject/static/js/787.144d2ea2.chunk.js",
+    "static/media/logo.svg": "/xtremefieldproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/xtremefieldproject/index.html",
+    "main.073c9b0a.css.map": "/xtremefieldproject/static/css/main.073c9b0a.css.map",
+    "main.610f141b.js.map": "/xtremefieldproject/static/js/main.610f141b.js.map",
+    "787.144d2ea2.chunk.js.map": "/xtremefieldproject/static/js/787.144d2ea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.610f141b.js"
+  ]
+}
